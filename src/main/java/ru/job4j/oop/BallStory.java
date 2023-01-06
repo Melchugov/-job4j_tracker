@@ -11,3 +11,4 @@ public class BallStory {
      hare.tryEat(ball);
     }
 }
+
